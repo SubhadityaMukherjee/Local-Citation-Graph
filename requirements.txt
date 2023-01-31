@@ -1,3 +1,4 @@
+clipboard==0.0.4
 matplotlib==3.6.2
 networkx==3.0
 pandas==1.5.1
