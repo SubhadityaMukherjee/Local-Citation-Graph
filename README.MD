@@ -1,7 +1,20 @@
 # Local Citation Graph from Zotero - mermaid + html
 
-- A combination of two repositories. FULL credits go to both of the individual authors : [MikeBergmann](https://github.com/MikeBergmann/graphml2mermaid) , [Jaks6](https://github.com/jaks6/citation_map)
-- I just combined all of them in scripts to work together.
+- Take a zotero collection -> Visualize how the papers are connected with each other as a graph
+  - Use it as a graph in Obsidian if you want
+  - Or just visualize it in your browser!
+  - Choose the papers you want before exporting!
+- FULL Credits for the conversion of the Zotero to Gephi graphs goes to [Jaks6](https://github.com/jaks6/citation_map) (I would fork but I am changing way too much)
+
+## Examples
+> These examples have a lot of _random_ papers. Just as an example
+- Example zotero library
+  - ![im](images/zot.png)
+- Output graph in pyvis
+  - ![im](images/py1.png)
+  - ![im](images/py2.png) 
+- Output graph in mermaid
+  - ![im](images/merm.png)
 
 ## How to use?
 - You need Zotero!
