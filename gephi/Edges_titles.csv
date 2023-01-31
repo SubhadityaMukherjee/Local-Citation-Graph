@@ -1,0 +1,58 @@
+Source	Target	Weight
+deep inside convolutional networks visualising image classification models and saliency maps	visualizing and understanding convolutional networks	1
+striving for simplicity the all convolutional net	network in network	1
+striving for simplicity the all convolutional net	visualizing and understanding convolutional networks	1
+the unreliability of saliency methods	smoothgrad removing noise by adding noise	1
+the unreliability of saliency methods	learning important features through propagating activation differences	1
+the unreliability of saliency methods	visualizing and understanding convolutional networks	1
+real time image saliency for black box classifiers	striving for simplicity the all convolutional net	1
+real time image saliency for black box classifiers	visualizing and understanding convolutional networks	1
+network dissection quantifying interpretability of deep visual representations	visualizing and understanding convolutional networks	1
+understanding deep networks via extremal perturbations and smooth masks	striving for simplicity the all convolutional net	1
+understanding deep networks via extremal perturbations and smooth masks	smoothgrad removing noise by adding noise	1
+understanding deep networks via extremal perturbations and smooth masks	sanity checks for saliency maps	1
+understanding deep networks via extremal perturbations and smooth masks	visualizing and understanding convolutional networks	1
+methods for interpreting and understanding deep neural networks	striving for simplicity the all convolutional net	1
+methods for interpreting and understanding deep neural networks	visualizing and understanding convolutional networks	1
+explaining explanations an overview of interpretability of machine learning	network dissection quantifying interpretability of deep visual representations	1
+explaining explanations an overview of interpretability of machine learning	learning important features through propagating activation differences	1
+explaining explanations an overview of interpretability of machine learning	visualizing and understanding convolutional networks	1
+explainable artificial intelligence xai concepts taxonomies opportunities and challenges toward responsible ai	network in network	1
+did the model understand the question	striving for simplicity the all convolutional net	1
+did the model understand the question	learning important features through propagating activation differences	1
+smoothgrad removing noise by adding noise	learning important features through propagating activation differences	1
+how important is a neuron	learning important features through propagating activation differences	1
+computationally efficient measures of internal neuron importance	how important is a neuron	1
+computationally efficient measures of internal neuron importance	learning important features through propagating activation differences	1
+learning important features through propagating activation differences	striving for simplicity the all convolutional net	1
+a unified approach to interpreting model predictions	learning important features through propagating activation differences	1
+influencedirected explanations for deep convolutional networks	striving for simplicity the all convolutional net	1
+influencedirected explanations for deep convolutional networks	the unreliability of saliency methods	1
+influencedirected explanations for deep convolutional networks	how important is a neuron	1
+towards better understanding of gradientbased attribution methods for deep neural networks	methods for interpreting and understanding deep neural networks	1
+towards better understanding of gradientbased attribution methods for deep neural networks	smoothgrad removing noise by adding noise	1
+towards better understanding of gradientbased attribution methods for deep neural networks	learning important features through propagating activation differences	1
+towards better understanding of gradientbased attribution methods for deep neural networks	visualizing and understanding convolutional networks	1
+a survey on neural network interpretability	striving for simplicity the all convolutional net	1
+a survey on neural network interpretability	interpretation of neural networks is fragile	1
+a survey on neural network interpretability	the unreliability of saliency methods	1
+a survey on neural network interpretability	network dissection quantifying interpretability of deep visual representations	1
+a survey on neural network interpretability	methods for interpreting and understanding deep neural networks	1
+a survey on neural network interpretability	explaining explanations an overview of interpretability of machine learning	1
+a survey on neural network interpretability	explanations can be manipulated and geometry is to blame	1
+a survey on neural network interpretability	sanity checks for saliency maps	1
+a survey on neural network interpretability	learning important features through propagating activation differences	1
+a survey on neural network interpretability	visualizing and understanding convolutional networks	1
+a survey on neural network interpretability	towards better understanding of gradientbased attribution methods for deep neural networks	1
+deflating dataset bias using synthetic data augmentation	unbiased look at dataset bias	1
+data augmentation can improve robustness	randaugment practical automated data augmentation with a reduced search space	1
+augmix a simple data processing method to improve robustness and uncertainty	randaugment practical automated data augmentation with a reduced search space	1
+augmix a simple data processing method to improve robustness and uncertainty	unbiased look at dataset bias	1
+explainability for artificial intelligence in healthcare a multidisciplinary perspective	principles alone cannot guarantee ethical ai	1
+opportunities and challenges in explainable artificial intelligence xai a survey	striving for simplicity the all convolutional net	1
+opportunities and challenges in explainable artificial intelligence xai a survey	interpretation of neural networks is fragile	1
+opportunities and challenges in explainable artificial intelligence xai a survey	the unreliability of saliency methods	1
+opportunities and challenges in explainable artificial intelligence xai a survey	sanity checks for saliency maps	1
+opportunities and challenges in explainable artificial intelligence xai a survey	learning important features through propagating activation differences	1
+opportunities and challenges in explainable artificial intelligence xai a survey	visualizing and understanding convolutional networks	1
+opportunities and challenges in explainable artificial intelligence xai a survey	towards better understanding of gradientbased attribution methods for deep neural networks	1

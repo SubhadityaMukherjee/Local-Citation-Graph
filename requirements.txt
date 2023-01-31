@@ -1,0 +1,5 @@
+matplotlib==3.6.2
+networkx==3.0
+pandas==1.5.1
+pdfminer==20191125
+pyvis==0.3.1
