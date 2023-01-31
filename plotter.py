@@ -23,11 +23,12 @@ net = Network(
     directed = True,
     filter_menu = True, 
     bgcolor="#222222", font_color="white", select_menu=True,
-    layout = True
+    # layout = True
 )
 net.show_buttons(filter_=['physics']) # Show part 3 in the plot (optional)
 net.from_nx(G) # Create directly from nx graph
 net.toggle_physics(True)
+net.solver("forceAtlas2Based")
 net.show('gephi/visualize_graph.html')
 #%%
 # Mermaid parser

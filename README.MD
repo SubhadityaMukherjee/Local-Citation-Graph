@@ -12,7 +12,6 @@
   - ![im](images/zot.png)
 - Output graph in pyvis
   - ![im](images/py1.png)
-  - ![im](images/py2.png) 
 - Output graph in mermaid
   - ![im](images/merm.png)
 
@@ -28,6 +27,7 @@
 - Run `python3 plotter.py`
 - This creates files in the `./gephi/` folder
 - Open the file `./gephi/visuzalize_graph.html` in your browser
+- If the titles overlap too much, scroll down a bit and set the solver to 'Atlas2Based'
 
 ### Mermaid diagram
 - Same as before, the mermaid code is automatically copied to the clipboard and shown as output

@@ -1,205 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
-<graph edgedefault="directed"><node id="deep inside convolutional networks visualising image classification models and saliency maps"/>
-<node id="visualizing and understanding convolutional networks"/>
-<node id="striving for simplicity the all convolutional net"/>
+<graph edgedefault="directed"><node id="embedding human knowledge into deep neural network via attention map"/>
+<node id="gradcam visual explanations from deep networks via gradientbased localization"/>
 <node id="network in network"/>
-<node id="the unreliability of saliency methods"/>
-<node id="smoothgrad removing noise by adding noise"/>
-<node id="learning important features through propagating activation differences"/>
-<node id="real time image saliency for black box classifiers"/>
-<node id="network dissection quantifying interpretability of deep visual representations"/>
-<node id="understanding deep networks via extremal perturbations and smooth masks"/>
-<node id="sanity checks for saliency maps"/>
-<node id="methods for interpreting and understanding deep neural networks"/>
-<node id="explaining explanations an overview of interpretability of machine learning"/>
-<node id="explainable artificial intelligence xai concepts taxonomies opportunities and challenges toward responsible ai"/>
-<node id="did the model understand the question"/>
-<node id="how important is a neuron"/>
-<node id="computationally efficient measures of internal neuron importance"/>
-<node id="a unified approach to interpreting model predictions"/>
-<node id="influencedirected explanations for deep convolutional networks"/>
-<node id="towards better understanding of gradientbased attribution methods for deep neural networks"/>
-<node id="a survey on neural network interpretability"/>
-<node id="interpretation of neural networks is fragile"/>
-<node id="explanations can be manipulated and geometry is to blame"/>
-<node id="deflating dataset bias using synthetic data augmentation"/>
-<node id="unbiased look at dataset bias"/>
-<node id="data augmentation can improve robustness"/>
-<node id="randaugment practical automated data augmentation with a reduced search space"/>
-<node id="augmix a simple data processing method to improve robustness and uncertainty"/>
-<node id="explainability for artificial intelligence in healthcare a multidisciplinary perspective"/>
-<node id="principles alone cannot guarantee ethical ai"/>
-<node id="opportunities and challenges in explainable artificial intelligence xai a survey"/>
-<edge source="deep inside convolutional networks visualising image classification models and saliency maps" target="visualizing and understanding convolutional networks">
+<node id="attention is all you need"/>
+<node id="couplformerrethinking vision transformer with coupling attention map"/>
+<node id="attention augmented convolutional networks"/>
+<node id="an image is worth x words transformers for image recognition at scale"/>
+<node id="is object localization for free weaklysupervised learning with convolutional neural networks"/>
+<node id="gradcam improved visual explanations for deep convolutional networks"/>
+<node id="on the overlap between gradcam saliency maps and explainable visual features in skin cancer images"/>
+<node id="on the importance of visual context for data augmentation in scene understanding"/>
+<node id="random erasing data augmentation"/>
+<node id="modeling visual context is key to augmenting object detection datasets"/>
+<node id="bert pretraining of deep bidirectional transformers for language understanding"/>
+<node id="language models are fewshot learners"/>
+<node id="swin transformer v scaling up capacity and resolution"/>
+<edge source="embedding human knowledge into deep neural network via attention map" target="gradcam visual explanations from deep networks via gradientbased localization">
   <data key="d0">1</data>
 </edge>
-<edge source="striving for simplicity the all convolutional net" target="network in network">
+<edge source="embedding human knowledge into deep neural network via attention map" target="network in network">
   <data key="d0">1</data>
 </edge>
-<edge source="striving for simplicity the all convolutional net" target="visualizing and understanding convolutional networks">
+<edge source="embedding human knowledge into deep neural network via attention map" target="attention is all you need">
   <data key="d0">1</data>
 </edge>
-<edge source="the unreliability of saliency methods" target="smoothgrad removing noise by adding noise">
+<edge source="gradcam visual explanations from deep networks via gradientbased localization" target="is object localization for free weaklysupervised learning with convolutional neural networks">
   <data key="d0">1</data>
 </edge>
-<edge source="the unreliability of saliency methods" target="learning important features through propagating activation differences">
+<edge source="gradcam visual explanations from deep networks via gradientbased localization" target="network in network">
   <data key="d0">1</data>
 </edge>
-<edge source="the unreliability of saliency methods" target="visualizing and understanding convolutional networks">
+<edge source="couplformerrethinking vision transformer with coupling attention map" target="attention augmented convolutional networks">
   <data key="d0">1</data>
 </edge>
-<edge source="smoothgrad removing noise by adding noise" target="learning important features through propagating activation differences">
+<edge source="couplformerrethinking vision transformer with coupling attention map" target="attention is all you need">
   <data key="d0">1</data>
 </edge>
-<edge source="learning important features through propagating activation differences" target="striving for simplicity the all convolutional net">
+<edge source="couplformerrethinking vision transformer with coupling attention map" target="an image is worth x words transformers for image recognition at scale">
   <data key="d0">1</data>
 </edge>
-<edge source="real time image saliency for black box classifiers" target="striving for simplicity the all convolutional net">
+<edge source="attention augmented convolutional networks" target="attention is all you need">
   <data key="d0">1</data>
 </edge>
-<edge source="real time image saliency for black box classifiers" target="visualizing and understanding convolutional networks">
+<edge source="is object localization for free weaklysupervised learning with convolutional neural networks" target="network in network">
   <data key="d0">1</data>
 </edge>
-<edge source="network dissection quantifying interpretability of deep visual representations" target="visualizing and understanding convolutional networks">
+<edge source="gradcam improved visual explanations for deep convolutional networks" target="is object localization for free weaklysupervised learning with convolutional neural networks">
   <data key="d0">1</data>
 </edge>
-<edge source="understanding deep networks via extremal perturbations and smooth masks" target="striving for simplicity the all convolutional net">
+<edge source="gradcam improved visual explanations for deep convolutional networks" target="network in network">
   <data key="d0">1</data>
 </edge>
-<edge source="understanding deep networks via extremal perturbations and smooth masks" target="smoothgrad removing noise by adding noise">
+<edge source="on the overlap between gradcam saliency maps and explainable visual features in skin cancer images" target="gradcam visual explanations from deep networks via gradientbased localization">
   <data key="d0">1</data>
 </edge>
-<edge source="understanding deep networks via extremal perturbations and smooth masks" target="sanity checks for saliency maps">
+<edge source="on the importance of visual context for data augmentation in scene understanding" target="random erasing data augmentation">
   <data key="d0">1</data>
 </edge>
-<edge source="understanding deep networks via extremal perturbations and smooth masks" target="visualizing and understanding convolutional networks">
+<edge source="on the importance of visual context for data augmentation in scene understanding" target="modeling visual context is key to augmenting object detection datasets">
   <data key="d0">1</data>
 </edge>
-<edge source="methods for interpreting and understanding deep neural networks" target="striving for simplicity the all convolutional net">
+<edge source="bert pretraining of deep bidirectional transformers for language understanding" target="attention is all you need">
   <data key="d0">1</data>
 </edge>
-<edge source="methods for interpreting and understanding deep neural networks" target="visualizing and understanding convolutional networks">
+<edge source="language models are fewshot learners" target="attention is all you need">
   <data key="d0">1</data>
 </edge>
-<edge source="explaining explanations an overview of interpretability of machine learning" target="network dissection quantifying interpretability of deep visual representations">
+<edge source="swin transformer v scaling up capacity and resolution" target="random erasing data augmentation">
   <data key="d0">1</data>
 </edge>
-<edge source="explaining explanations an overview of interpretability of machine learning" target="learning important features through propagating activation differences">
+<edge source="swin transformer v scaling up capacity and resolution" target="attention is all you need">
   <data key="d0">1</data>
 </edge>
-<edge source="explaining explanations an overview of interpretability of machine learning" target="visualizing and understanding convolutional networks">
+<edge source="swin transformer v scaling up capacity and resolution" target="language models are fewshot learners">
   <data key="d0">1</data>
 </edge>
-<edge source="explainable artificial intelligence xai concepts taxonomies opportunities and challenges toward responsible ai" target="network in network">
-  <data key="d0">1</data>
-</edge>
-<edge source="did the model understand the question" target="striving for simplicity the all convolutional net">
-  <data key="d0">1</data>
-</edge>
-<edge source="did the model understand the question" target="learning important features through propagating activation differences">
-  <data key="d0">1</data>
-</edge>
-<edge source="how important is a neuron" target="learning important features through propagating activation differences">
-  <data key="d0">1</data>
-</edge>
-<edge source="computationally efficient measures of internal neuron importance" target="how important is a neuron">
-  <data key="d0">1</data>
-</edge>
-<edge source="computationally efficient measures of internal neuron importance" target="learning important features through propagating activation differences">
-  <data key="d0">1</data>
-</edge>
-<edge source="a unified approach to interpreting model predictions" target="learning important features through propagating activation differences">
-  <data key="d0">1</data>
-</edge>
-<edge source="influencedirected explanations for deep convolutional networks" target="striving for simplicity the all convolutional net">
-  <data key="d0">1</data>
-</edge>
-<edge source="influencedirected explanations for deep convolutional networks" target="the unreliability of saliency methods">
-  <data key="d0">1</data>
-</edge>
-<edge source="influencedirected explanations for deep convolutional networks" target="how important is a neuron">
-  <data key="d0">1</data>
-</edge>
-<edge source="towards better understanding of gradientbased attribution methods for deep neural networks" target="methods for interpreting and understanding deep neural networks">
-  <data key="d0">1</data>
-</edge>
-<edge source="towards better understanding of gradientbased attribution methods for deep neural networks" target="smoothgrad removing noise by adding noise">
-  <data key="d0">1</data>
-</edge>
-<edge source="towards better understanding of gradientbased attribution methods for deep neural networks" target="learning important features through propagating activation differences">
-  <data key="d0">1</data>
-</edge>
-<edge source="towards better understanding of gradientbased attribution methods for deep neural networks" target="visualizing and understanding convolutional networks">
-  <data key="d0">1</data>
-</edge>
-<edge source="a survey on neural network interpretability" target="striving for simplicity the all convolutional net">
-  <data key="d0">1</data>
-</edge>
-<edge source="a survey on neural network interpretability" target="interpretation of neural networks is fragile">
-  <data key="d0">1</data>
-</edge>
-<edge source="a survey on neural network interpretability" target="the unreliability of saliency methods">
-  <data key="d0">1</data>
-</edge>
-<edge source="a survey on neural network interpretability" target="network dissection quantifying interpretability of deep visual representations">
-  <data key="d0">1</data>
-</edge>
-<edge source="a survey on neural network interpretability" target="methods for interpreting and understanding deep neural networks">
-  <data key="d0">1</data>
-</edge>
-<edge source="a survey on neural network interpretability" target="explaining explanations an overview of interpretability of machine learning">
-  <data key="d0">1</data>
-</edge>
-<edge source="a survey on neural network interpretability" target="explanations can be manipulated and geometry is to blame">
-  <data key="d0">1</data>
-</edge>
-<edge source="a survey on neural network interpretability" target="sanity checks for saliency maps">
-  <data key="d0">1</data>
-</edge>
-<edge source="a survey on neural network interpretability" target="learning important features through propagating activation differences">
-  <data key="d0">1</data>
-</edge>
-<edge source="a survey on neural network interpretability" target="visualizing and understanding convolutional networks">
-  <data key="d0">1</data>
-</edge>
-<edge source="a survey on neural network interpretability" target="towards better understanding of gradientbased attribution methods for deep neural networks">
-  <data key="d0">1</data>
-</edge>
-<edge source="deflating dataset bias using synthetic data augmentation" target="unbiased look at dataset bias">
-  <data key="d0">1</data>
-</edge>
-<edge source="data augmentation can improve robustness" target="randaugment practical automated data augmentation with a reduced search space">
-  <data key="d0">1</data>
-</edge>
-<edge source="augmix a simple data processing method to improve robustness and uncertainty" target="randaugment practical automated data augmentation with a reduced search space">
-  <data key="d0">1</data>
-</edge>
-<edge source="augmix a simple data processing method to improve robustness and uncertainty" target="unbiased look at dataset bias">
-  <data key="d0">1</data>
-</edge>
-<edge source="explainability for artificial intelligence in healthcare a multidisciplinary perspective" target="principles alone cannot guarantee ethical ai">
-  <data key="d0">1</data>
-</edge>
-<edge source="opportunities and challenges in explainable artificial intelligence xai a survey" target="striving for simplicity the all convolutional net">
-  <data key="d0">1</data>
-</edge>
-<edge source="opportunities and challenges in explainable artificial intelligence xai a survey" target="interpretation of neural networks is fragile">
-  <data key="d0">1</data>
-</edge>
-<edge source="opportunities and challenges in explainable artificial intelligence xai a survey" target="the unreliability of saliency methods">
-  <data key="d0">1</data>
-</edge>
-<edge source="opportunities and challenges in explainable artificial intelligence xai a survey" target="sanity checks for saliency maps">
-  <data key="d0">1</data>
-</edge>
-<edge source="opportunities and challenges in explainable artificial intelligence xai a survey" target="learning important features through propagating activation differences">
-  <data key="d0">1</data>
-</edge>
-<edge source="opportunities and challenges in explainable artificial intelligence xai a survey" target="visualizing and understanding convolutional networks">
-  <data key="d0">1</data>
-</edge>
-<edge source="opportunities and challenges in explainable artificial intelligence xai a survey" target="towards better understanding of gradientbased attribution methods for deep neural networks">
+<edge source="swin transformer v scaling up capacity and resolution" target="an image is worth x words transformers for image recognition at scale">
   <data key="d0">1</data>
 </edge>
 </graph></graphml>
